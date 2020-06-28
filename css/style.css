@@ -1,0 +1,338 @@
+body {
+    background-color: #023235;
+}
+.html{
+
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+
+}
+.number {
+    min-width: 30px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #127BAE;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.contant{
+    text-align: center;
+    height: 30px;
+    width: 40%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.div4 {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.div5 {
+    min-width: 30px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 3px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #06C17E;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.div6 {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 2px;
+    color: white;
+    font-size: 30px;
+}
+.article {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.art {
+    min-width: 30px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 3px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #127BAE;
+    box-shadow: 2px 1px;
+}
+.artic {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 2px;
+    color: white;
+    font-size: 30px;
+}
+.news {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.and {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 3px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #06C17E;
+    box-shadow: 2px 1px 0 black;
+}
+.stuff {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 2px;
+    color: white;
+    font-size: 30px;
+}
+.funny {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.an {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 3px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #6D317D;
+    box-shadow: 2px 1px 0 black;
+}
+.picture {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 2px;
+    color: white;
+    font-size: 30px;
+}
+.profit {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.profit1 {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #6D317D;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.profit2 {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.creat {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.own {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #06C17E;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.site {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.pro1 {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.pro2 {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #6D317D;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+
+}
+.pro3 {
+    text-align: center;
+    height: 30px;
+    width: 40%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.learn1 {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.learn2 {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 30px;
+    background-color: #127BAE;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.learn3 {
+    text-align: center;
+    height: 30px;
+    width: 60%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.one {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.two {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #127BAE;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.three {
+    text-align: center;
+    height: 30px;
+    width: 80%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.four {
+
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+
+}
+.five {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #06C17E;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.six {
+    text-align: center;
+    height: 30px;
+    width: 80%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
+.seven {
+    width: 50%;
+    height: 30px;
+    padding-top: 50px;
+}
+.eight {
+    min-width: 30px;
+    max-width: 00px;
+    height: 30px;
+    color: antiquewhite;
+    box-sizing: border-box;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
+    margin-left: 60px;
+    background-color: #6D317D;
+    border-radius: 50%;
+    box-shadow: 2px 1px 0 black;
+}
+.nine {
+    text-align: center;
+    height: 30px;
+    width: 80%;
+    padding-top: 28px;
+    color: white;
+    font-size: 30px;
+}
